@@ -1,0 +1,7 @@
+/.vs/**
+**/bin**
+**/bin/**
+**/obj/**
+**/appSettings.localDev.json
+**/logs/*.log
+**/nlog.txt
